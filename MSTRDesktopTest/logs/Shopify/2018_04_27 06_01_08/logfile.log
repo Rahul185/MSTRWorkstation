@@ -1,0 +1,6 @@
+06:01:09  INFO [main] - example.Shopify.Shopify_InMemory_DSNLess - Shopify
+06:01:09  INFO [main] - example.Shopify.Shopify_InMemory_DSNLess - Order_Shipping_Lines
+06:01:09  INFO [main] - example.Shopify.Shopify_InMemory_DSNLess - Shopify_InMemory_DSNLess
+06:02:20 ERROR [main] - example.Shopify.Shopify_InMemory_DSNLess - java.lang.RuntimeException: FindFailed: can not find P(C:\workspace\MSTRDesktopTest\src\main\resources\sikuli-images\desktop10.11.0.4\dataSourceName\ShopifyDSN.PNG) S: 0.7 on the screen.
+  Line 1574, in file Region.java
+

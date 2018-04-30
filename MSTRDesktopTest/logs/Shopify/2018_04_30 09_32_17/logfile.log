@@ -1,0 +1,4 @@
+09:32:18  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Shopify
+09:32:18  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Order_Shipping_Lines
+09:32:18  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Shopify_Live_DSNLess
+09:33:00 ERROR [main] - example.Shopify.Shopify_Live_DSNLess - java.lang.IllegalMonitorStateException

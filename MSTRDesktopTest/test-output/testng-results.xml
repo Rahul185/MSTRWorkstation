@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47146" started-at="2018-04-30T14:03:56Z" finished-at="2018-04-30T14:04:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47146" started-at="2018-04-30T14:03:56Z" finished-at="2018-04-30T14:04:43Z">
+      <class name="example.Shopify">
+        <test-method status="PASS" signature="Shopify_Live_DSNLess()[pri:0, instance:example.Shopify@20322d26]" name="Shopify_Live_DSNLess" duration-ms="47129" started-at="2018-04-30T10:03:56Z" finished-at="2018-04-30T10:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shopify_Live_DSNLess -->
+      </class> <!-- example.Shopify -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

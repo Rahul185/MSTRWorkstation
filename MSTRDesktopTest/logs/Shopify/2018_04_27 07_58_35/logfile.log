@@ -1,0 +1,4 @@
+07:58:36  INFO [main] - example.Shopify.Shopify_InMemory_DSNLess - Shopify
+07:58:36  INFO [main] - example.Shopify.Shopify_InMemory_DSNLess - Order_Shipping_Lines
+07:58:36  INFO [main] - example.Shopify.Shopify_InMemory_DSNLess - Shopify_InMemory_DSNLess
+07:58:43 ERROR [main] - example.Shopify.Shopify_InMemory_DSNLess - java.lang.IllegalMonitorStateException

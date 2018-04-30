@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: example.NewTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 29.264 sec <<< FAILURE!
+Impala_InMemory_DSN(example.NewTest)  Time elapsed: 20.622 sec  <<< FAILURE!
+java.lang.AssertionError: The following asserts failed:
+	Failed on clicking New Data button on Dossier Page expected [true] but found [false]
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+	at pages.DossierPage.clickOnNewData(DossierPage.java:35)
+	at example.NewTest.Impala_InMemory_DSN(NewTest.java:67)
+

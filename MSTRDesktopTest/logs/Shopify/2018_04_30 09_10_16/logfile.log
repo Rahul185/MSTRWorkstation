@@ -1,0 +1,6 @@
+09:10:17  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Shopify
+09:10:17  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Order_Shipping_Lines
+09:10:17  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Shopify_Live_DSNLess
+09:10:21 ERROR [main] - example.Shopify.Shopify_Live_DSNLess - java.lang.RuntimeException: FindFailed: ImageFile null not found on disk
+  Line 1671, in file Region.java
+

@@ -1,0 +1,6 @@
+09:11:30  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Shopify
+09:11:30  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Order_Shipping_Lines
+09:11:30  INFO [main] - example.Shopify.Shopify_Live_DSNLess - Shopify_Live_DSNLess
+09:11:58 ERROR [main] - example.Shopify.Shopify_Live_DSNLess - java.lang.RuntimeException: FindFailed: can not find P(C:\workspace\MSTRDesktopTest\src\main\resources\sikuli-images\desktop10.11.0.4\tableImport\Shoppify-OrderShoppifyLinesForTableSelector.PNG) S: 0.7 on the screen.
+  Line 1574, in file Region.java
+
